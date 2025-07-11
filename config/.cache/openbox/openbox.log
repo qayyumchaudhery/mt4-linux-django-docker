@@ -1,0 +1,4 @@
+Openbox-Message: Couldn't set messages locale category from environment.
+Openbox-Message: Couldn't set locale from environment.
+Obt-Message: Xinerama extension is not present on the server
+ObRender-Message: Cannot load image "/config/.wine/drive_c/Program Files (x86)/MetaTrader 4/Terminal.ico" from file "/config/.wine/drive_c/Program Files (x86)/MetaTrader 4/Terminal.ico"

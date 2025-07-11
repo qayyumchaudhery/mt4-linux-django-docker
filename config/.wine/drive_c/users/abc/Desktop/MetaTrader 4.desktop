@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MetaTrader 4
+Exec=env WINEPREFIX="/config/.wine" wine C:\\\\users\\\\Public\\\\Desktop\\\\MetaTrader\\ 4.lnk
+Type=Application
+StartupNotify=true
+Path=/config/.wine/dosdevices/c:/Program Files (x86)/MetaTrader 4
+Icon=521B_terminal.0
+StartupWMClass=terminal.exe

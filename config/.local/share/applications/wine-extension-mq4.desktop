@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Program Files
+MimeType=application/x-wine-extension-mq4;
+Exec=env WINEPREFIX="/config/.wine" wine start /ProgIDOpen MQL4.File %f
+NoDisplay=true
+StartupNotify=true
+Icon=37D2_Program Files.0

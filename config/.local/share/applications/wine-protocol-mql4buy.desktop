@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Program Files
+MimeType=x-scheme-handler/mql4buy;
+Exec=env WINEPREFIX="/config/.wine" wine start %u
+NoDisplay=true
+StartupNotify=true
+Icon=37D2_Program Files.0

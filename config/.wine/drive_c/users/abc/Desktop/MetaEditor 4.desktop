@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MetaEditor 4
+Exec=env WINEPREFIX="/config/.wine" wine C:\\\\users\\\\Public\\\\Desktop\\\\MetaEditor\\ 4.lnk
+Type=Application
+StartupNotify=true
+Path=/config/.wine/dosdevices/c:/Program Files (x86)/MetaTrader 4
+Icon=29CC_metaeditor.0
+StartupWMClass=metaeditor.exe
